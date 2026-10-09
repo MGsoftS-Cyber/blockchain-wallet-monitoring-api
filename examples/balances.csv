@@ -1,0 +1,3 @@
+asset_id,label,decimals,balance_base_units,balance,status
+native,ETH,18,4470766000000000000,4.470766,observed_snapshot_value
+0x4444444444444444444444444444444444444444,DEMO,6,801000000,801,declared_snapshot_value
